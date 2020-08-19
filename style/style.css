@@ -1,0 +1,52 @@
+body {
+    background-color: gainsboro;
+}
+
+#calculator {
+    height: 60%;
+    width: 200px;
+    background-color: black;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .8);
+    margin: 15px auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 30px; 
+    grid-gap: 5px;
+}
+
+#calculator button {
+    width: 100%;
+    border: none;
+    background-color: white;
+}
+
+.fundo {
+    background-color: white;
+}
+
+.display {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+.visor-calc {
+    width: 100%;
+}
+
+.mais {
+    grid-row-start: 5;
+    grid-row-end: 7;
+    grid-column-start: 4;
+    grid-column-end: 5;
+}
+
+.zero {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.titulo-calc {
+    color: white;
+}
