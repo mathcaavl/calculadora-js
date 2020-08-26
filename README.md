@@ -1,10 +1,11 @@
-# calculadora-js
-<br>
-Calculadora construida com as seguintes tecnologias:
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-</ul>
-<br>
-Link: calculadora-js-mathcaavl.netlify.app
+# Jogo da Velha #️⃣
+<hr>
+
+#### 👨🏻‍💻  [About this Project ] : 
+
+##### Esse projeto teve como objetivo aprofundar um pouco mais a minha lógica de programação.
+##### Calculadora totalmente finalizada e funcionando sem bugs aparententes 🥳
+<hr>
+
+### 👨🏻‍💻  [Techs] :
+#### HTML5 / CSS3 / Javascript :) 
