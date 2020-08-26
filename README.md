@@ -1,4 +1,4 @@
-# Jogo da Velha #️⃣
+# Calculadora Javascript 🧮
 <hr>
 
 #### 👨🏻‍💻  [About this Project ] : 
